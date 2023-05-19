@@ -1,0 +1,7 @@
+.mapat{
+    display: flex;
+    justify-content: center;
+    border: 2px solid rgb(68, 0, 255);
+    width: 150px;
+    height: 50px;
+}
